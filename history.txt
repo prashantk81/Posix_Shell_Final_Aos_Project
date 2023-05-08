@@ -1,0 +1,6 @@
+echo $HOME
+ls -al
+history
+cd ..
+pwd
+quit
